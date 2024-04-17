@@ -1,0 +1,37 @@
+.search-container {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 4px;
+}
+
+.icon-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-left: 0px;
+  padding-left: 3px;
+}
+
+.icon-button i {
+  color: #e6565e;
+  font-size: 30px;
+}
+
+.popup input:focus,
+.popup textarea:focus,
+.popup select:focus {
+  outline: 1px gray;
+}
+
+#searchInput {
+  width: 200px;
+  height: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: "San Francisco", sans-serif;
+}
+
