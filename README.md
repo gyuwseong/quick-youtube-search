@@ -7,5 +7,10 @@ made for personal use!
 ## **To do**
 
 - [x] basic feature implementation
+- [x] add contextMenus option
 - [ ] publish in the Chrome Web Store
 - [ ] add autocomplete functionality using the YouTube API
+
+<br>
+<br>
+Last update: 2024/11/05
