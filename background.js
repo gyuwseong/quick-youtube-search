@@ -3,7 +3,7 @@ const YOUTUBE_URL = "https://www.youtube.com";
 chrome.runtime.onInstalled.addListener(function () {
     chrome.contextMenus.create({
         id: "myContextMenu",
-        title: "Search %s in Youtube",
+        title: "Search '%s' in Youtube",
         contexts:["selection"],
     });
 });
